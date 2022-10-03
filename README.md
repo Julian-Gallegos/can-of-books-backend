@@ -48,6 +48,18 @@ Estimate of time needed to complete: 60 minutes
 
 Start time: 2:57 PM
 
+Finish time: 3:39 PM
+
+Actual time needed to complete: 40 minutes
+
+## Estimates feature 3
+
+Name of feature: Book component trello story
+
+Estimate of time needed to complete: 50 minutes
+
+Start time: 3:42 PM
+
 Finish time: 
 
 Actual time needed to complete: 
