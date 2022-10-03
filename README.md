@@ -60,9 +60,9 @@ Estimate of time needed to complete: 50 minutes
 
 Start time: 3:42 PM
 
-Finish time: 
+Finish time:
 
-Actual time needed to complete: 
+Actual time needed to complete:
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->

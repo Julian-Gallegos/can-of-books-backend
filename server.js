@@ -21,4 +21,8 @@ db.once('open', function(){
 
 app.get('/books', getBooks);
 
+app.get('/', async (req, res)=>{
+  res.status(200).send('hey');
+});
+
 app.listen(PORT, () => console.log(`listening on ${PORT}`));
