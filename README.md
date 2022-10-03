@@ -28,7 +28,8 @@ Lets the user select a book of a gallery of books
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
-## Estimates
+## Estimates feature 1
+
 Name of feature: Set up repo trello story
 
 Estimate of time needed to complete: 50 minutes
@@ -38,6 +39,18 @@ Start time: 1:05 PM
 Finish time: 2:05 PM
 
 Actual time needed to complete: 60 minutes
+
+## Estimates feature 2
+
+Name of feature: Storage trello story
+
+Estimate of time needed to complete: 60 minutes
+
+Start time: 2:57 PM
+
+Finish time: 
+
+Actual time needed to complete: 
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
