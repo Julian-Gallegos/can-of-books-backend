@@ -9,7 +9,7 @@ Lets the user select a book from a gallery of books.
 
 ## Getting Started
 
-Deployed at: [https://app.netlify.com/sites/cianenry-julian-can-of-books-frontend/overview](https://app.netlify.com/sites/cianenry-julian-can-of-books-frontend/overview)
+Deployed at: [https://cianenry-julian-can-of-books-frontend.netlify.app/](https://cianenry-julian-can-of-books-frontend.netlify.app/)
 
 ## Architecture
 JavaScript
