@@ -7,6 +7,7 @@ const mongoose = require('mongoose');
 
 const getBooks = require('./modules/getBooks');
 const postBooks = require('./modules/postBooks');
+const deleteBooks = require('./modules/deleteBooks');
 
 const app = express();
 app.use(cors());
@@ -25,6 +26,8 @@ db.once('open', function(){
 app.get('/books', getBooks);
 
 app.post('/books', postBooks);
+
+app.delete('/books/:id', deleteBooks);
 
 
 
