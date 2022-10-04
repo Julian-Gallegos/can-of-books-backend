@@ -1,7 +1,7 @@
 # Can of Books Frontend
 
 **Author**: Julian Gallegos, Cianenry Danan
-**Version**: 1.0.1 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.2 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 
@@ -13,7 +13,7 @@ Deployed at: [https://cianenry-julian-can-of-books-frontend.netlify.app/](https:
 
 ## Architecture
 JavaScript
-Node 
+Node
 
 ## Change Log
 
