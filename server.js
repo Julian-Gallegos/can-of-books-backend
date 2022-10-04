@@ -6,9 +6,12 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 
 const getBooks = require('./modules/getBooks');
+const postBooks = require('./modules/postBooks');
 
 const app = express();
 app.use(cors());
+app.use(express.json());
+
 
 const PORT = process.env.PORT || 3001;
 
@@ -20,6 +23,10 @@ db.once('open', function(){
 });
 
 app.get('/books', getBooks);
+
+app.post('/books', postBooks);
+
+
 
 app.get('/', async (req, res)=>{
   res.status(200).send('hey');
