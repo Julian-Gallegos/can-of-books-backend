@@ -23,6 +23,8 @@ Node
 
 10-4-2022 4:28 PM - Application now lets user delete a book from the book data base.
 
+10-5-2022 1:32 PM - Server backend now recieves update requests, and returns the updated item.
+
 ## Estimates feature 1
 
 Name of feature: Set up repo trello story
@@ -83,6 +85,17 @@ Finish time: 4:28 PM
 
 Actual time needed to complete: 38 minutes
 
+## Estimates feature 6
+
+Name of feature: Be able to update a book
+
+Estimate of time needed to complete: 90 minutes
+
+Start time: 12:55 PM
+
+Finish time: 
+
+Actual time needed to complete: 
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->

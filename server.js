@@ -8,6 +8,7 @@ const mongoose = require('mongoose');
 const getBooks = require('./modules/getBooks');
 const postBooks = require('./modules/postBooks');
 const deleteBooks = require('./modules/deleteBooks');
+const updateBooks = require('./modules/updateBooks');
 
 const app = express();
 app.use(cors());
@@ -28,6 +29,8 @@ app.get('/books', getBooks);
 app.post('/books', postBooks);
 
 app.delete('/books/:id', deleteBooks);
+
+app.put('/books/:id', updateBooks);
 
 
 
